@@ -1,0 +1,25 @@
+{
+  "name": "backend-server",
+  "version": "1.0.0",
+  "description": "Awdiz 33 backend repo",
+  "homepage": "https://github.com/nandinicloud/awdiz-backend.git",
+  "bugs": {
+    "url": "https://github.com/nandinicloud/awdiz-backend.git",
+    "main": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/nandinicloud/awdiz-backend.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
